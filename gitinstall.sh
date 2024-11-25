@@ -12,4 +12,5 @@ then
 	brew install git
 else
 	echo "not installing"
+	Thank you
 fi
